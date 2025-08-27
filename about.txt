@@ -1,0 +1,4 @@
+lavanya
+BCA DataScience
+In GitHub platform how to manage versions of code, and colloborate with others and it uses
+as a platform for real-world software development
